@@ -33,18 +33,18 @@
     ]
   },
   "dependencies": {
-    "@rsbuild/plugin-babel": "^1.0.6",
+    "@rsbuild/plugin-babel": "^1.1.1",
     "@vue/babel-preset-jsx": "^1.4.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@playwright/test": "^1.57.0",
-    "@rsbuild/core": "^1.6.10",
-    "@rsbuild/plugin-vue2": "^1.0.4",
+    "@playwright/test": "^1.58.2",
+    "@rsbuild/core": "^2.0.0-beta.6",
+    "@rsbuild/plugin-vue2": "^1.1.1",
     "@rslib/core": "^0.18.2",
     "@types/node": "^22.19.1",
     "nano-staged": "^0.9.0",
-    "playwright": "^1.57.0",
+    "playwright": "^1.58.2",
     "simple-git-hooks": "^2.13.1",
     "typescript": "^5.9.3",
     "vue": "^2.7.16"
