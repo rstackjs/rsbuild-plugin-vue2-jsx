@@ -47,7 +47,7 @@
     "playwright": "^1.58.2",
     "simple-git-hooks": "^2.13.1",
     "typescript": "^5.9.3",
-    "vue": "^2.7.16"
+    "vue": "^3.5.31"
   },
   "peerDependencies": {
     "@rsbuild/core": "^1.0.0 || ^2.0.0-0"
