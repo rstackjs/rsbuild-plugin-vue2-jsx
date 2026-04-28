@@ -21,9 +21,9 @@ Add plugin to your `rsbuild.config.ts`:
 
 ```ts
 // rsbuild.config.ts
-import { pluginBabel } from "@rsbuild/plugin-babel";
-import { pluginVue2 } from "@rsbuild/plugin-vue2";
-import { pluginVue2Jsx } from "@rsbuild/plugin-vue2-jsx";
+import { pluginBabel } from '@rsbuild/plugin-babel';
+import { pluginVue2 } from '@rsbuild/plugin-vue2';
+import { pluginVue2Jsx } from '@rsbuild/plugin-vue2-jsx';
 
 export default {
   plugins: [
