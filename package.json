@@ -28,14 +28,14 @@
     "pre-commit": "pnpm run lint:write"
   },
   "dependencies": {
-    "@rsbuild/plugin-babel": "^1.1.2",
+    "@rsbuild/plugin-babel": "^1.2.1",
     "@vue/babel-preset-jsx": "^1.4.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.60.0",
-    "@rsbuild/core": "^2.0.7",
-    "@rsbuild/plugin-vue2": "^1.1.1",
-    "@rslib/core": "^0.21.5",
+    "@rsbuild/core": "^2.0.9",
+    "@rsbuild/plugin-vue2": "^1.1.2",
+    "@rslib/core": "^0.22.0",
     "@rslint/core": "^0.5.3",
     "@types/node": "^24.12.4",
     "playwright": "^1.60.0",
@@ -52,7 +52,7 @@
       "optional": true
     }
   },
-  "packageManager": "pnpm@11.3.0",
+  "packageManager": "pnpm@11.5.0",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
